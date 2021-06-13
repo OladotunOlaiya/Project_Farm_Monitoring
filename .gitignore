@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+# Secret Files
+arduino_secrets.h
+
 # Compiled Object files
 *.slo
 *.lo
